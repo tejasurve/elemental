@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+.mainbody{
+  width: 100%;
+}
+
+body{
+    background-color: #fff;
+    z-index: -1;
+}
+.selectiondiv{
+
+    margin-top: 7rem;
+    margin-left: 25rem;
+    padding: 10px;
+    
+}
+
+.vector1{
+    background: url('../assets/images/Vector2.png');
+background-repeat: no-repeat;
+background-size: auto;
+background-size: 100% 100%;
+
+}
+
+.vectortext1{
+position: absolute;
+max-width:  544px;
+max-height: 134px;
+left: 709px;
+top: 265px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 60px;
+/* or 94% */
+
+
+/* Black */
+
+color: #111111;
+}
+
+.vectortext2 {
+position: absolute;
+max-width: 380px;
+max-height: 84px;
+left: 709px;
+top: 394px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+/* Black */
+
+color: #111111;
+}
+
+.GreenCircle{
+    position: absolute;
+width: 170px;
+height: 168px;
+left: 467px;
+top: 248px;
+
+/* Spring */
+
+background: #12D76C;
+border-radius: 1000px;
+}
+.BlueCircle{
+    position: absolute;
+width: 327px;
+height: 324px;
+left: 228px;
+top: 215px;
+
+/* Sky */
+
+background: #6FCAFD;
+border-radius: 1000px;
+}
+.img1{
+    background: url('../assets/images/img1.png');
+    
+position: absolute;
+width: 34.67px;
+height: 35px;
+left: 315.33px;
+top: 728px;
+
+
+
+}
+
+.Male{
+    position: absolute;
+width: 350px;
+height: 489px;
+left: 235px;
+top: 144px;
+border-radius: 96px;
+}
+
+.vectortext3{
+    position: absolute;
+width: 380px;
+height: 84px;
+left: 365px;
+top: 728px;
+
+/* h1 */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+
+/* Black */
+
+color: #111111;
+}
+
+.questions {
+    position: static;
+width: 662px;
+height: 12px;
+left: 24px;
+top: 170px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+}

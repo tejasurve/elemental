@@ -1,0 +1,178 @@
+.maindiv{
+    display:'flex';
+   
+    justify-content:'space-around';
+    
+}
+.bluecircle{
+    position: absolute;
+width: 214px;
+height: 213px;
+left: 293px;
+top: 2260px;
+
+/* Cobalt */
+
+background: #1E90FF;
+border-radius: 1000px;
+}
+
+.card1{
+    position: absolute;
+    width: 198px;
+    height: 198px;
+    left: 243px;
+    top: 2191px;
+    
+    
+    /* Workbook shadow */
+    
+    filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 8px;
+}
+
+.card2{
+    position: absolute;
+    width: 198px;
+    height: 198px;
+    left: 454px;
+    top: 2124px;
+    
+    
+    /* Workbook shadow */
+    
+    filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 8px;
+}
+
+.card3{
+    position: absolute;
+width: 198px;
+height: 198px;
+left: 454px;
+top: 2336px;
+
+
+/* Workbook shadow */
+
+filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25));
+border-radius: 8px;
+
+}
+
+.title{
+    position: absolute;
+width: 545px;
+height: 42px;
+left: 780.67px;
+top: 2199px;
+
+/* h1 */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+
+
+/* Black */
+
+color: #111111;
+}
+.subtitle{
+    position: absolute;
+width: 469px;
+height: 93px;
+left: 783px;
+top: 2274px;
+
+/* Large paragraph text */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+/* Black */
+
+color: #111111;
+}
+
+.logo1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 12px 24px;
+    
+    position: absolute;
+    width: 65px;
+    height: 47px;
+    left: 783px;
+    top: 2404px;
+    
+    /* Off White */
+    
+    background: #EEEEEE;
+    /* Black */
+    
+    border: 1px solid #111111;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.logo2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 12px 24px;
+    
+    position: absolute;
+    width: 85px;
+    height: 47px;
+    left: 862px;
+    top: 2400px;
+    
+    /* White */
+    
+    background: #FEFEFE;
+    /* Black */
+    
+    border: 1px solid #111111;
+    box-sizing: border-box;
+    /* Button shadow - Secondary */
+    
+    box-shadow: 0px 4px 0px #8A8A8A;
+    border-radius: 8px;
+}
+.logo3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 12px 24px;
+    
+    position: absolute;
+    width: 84px;
+    height: 47px;
+    left: 961px;
+    top: 2400px;
+    
+    /* White */
+    
+    background: #FEFEFE;
+    /* Black */
+    
+    border: 1px solid #111111;
+    box-sizing: border-box;
+    /* Button shadow - Secondary */
+    
+    box-shadow: 0px 4px 0px #8A8A8A;
+    border-radius: 8px;
+}
+/*dbvsdvnsdvnv*/
+
+@media screen and (max-width: 1196px) {
+ 
+}

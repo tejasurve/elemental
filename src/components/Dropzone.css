@@ -1,0 +1,29 @@
+.div-10 {
+  border-top-color: #8a8a8a;
+  border-left-style: solid;
+  border-top-width: 1px;
+  padding-top: 12px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-right-width: 1px;
+  border-right-color: #8a8a8a;
+  border-right-style: solid;
+  border-radius: 8px;
+  flex-basis: 113px;
+  border-left-width: 1px;
+  padding-bottom: 12px;
+  border-top-style: solid;
+  border-bottom-color: #8a8a8a;
+  max-width: 113px;
+  background-color: #fefefe;
+  padding-right: 49px;
+  min-height: 45px;
+  border-left-color: #8a8a8a;
+  padding-left: 55px;
+}
+.span-9 {
+  line-height: 18px;
+  font-weight: 700;
+  color: #8a8a8a;
+  font-size: 16px;
+}

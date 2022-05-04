@@ -1,0 +1,35 @@
+
+.footer {
+
+    position: absolute;
+    width: 100%;
+    height: 253px;
+    left: 0px;
+    top: 4410px;
+
+background: #12D76C;background-repeat: no-repeat;
+
+}
+ .footer1 > div {
+    margin: 10px;
+}
+.footlinks {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+ a {
+    text-decoration: none;
+    color:#fff
+}
+
+@media screen and (max-width: 650px){
+.footlinks{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+}

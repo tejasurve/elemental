@@ -1,0 +1,175 @@
+.fireimg{
+    width: 45.33px;
+    height: 47.94px;
+}
+
+.title{
+    /* PRACTICE */
+
+
+position: static;
+width: 150px;
+height: 20px;
+left: 0px;
+top: 0px;
+color: #111111;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+
+/* Black */
+
+color: #111111;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 6px 0px;
+
+}
+
+.subtitle{
+    position: static;
+    width: 150px;
+    height: 80px;
+    left: 0px;
+    top: 26px;
+    color: #111111;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    flex: none;
+order: 1;
+flex-grow: 0;
+margin: 6px 0px;
+}
+.main{
+    display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 23px 24px 24px;
+
+width: 198px;
+height: 213px;
+left: 788px;
+top: 1593px;
+position: absolute;
+
+background: #FEFEFE;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+box-shadow: 0px 4px 0px #85B9E3;
+border-radius: 16px;
+}
+
+.main1{
+    display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 23px 24px 24px;
+
+position: absolute;
+width: 198px;
+height: 213px;
+left: 999px;
+top: 1663px;
+
+/* White */
+
+background: #FEFEFE;
+/* Cobalt */
+
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+box-shadow: 0px 4px 0px #85B9E3;
+border-radius: 16px;
+
+}
+.clockimg{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: static;
+    width: 48px;
+    height: 48px;
+    left: 24px;
+    top: 23px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 12px 0px;
+}
+
+.title2{
+    position: static;
+    width: 150px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    
+    
+    /* Black */
+    
+    color: #111111;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 6px 0px;
+}
+
+.subtitle2{
+
+    position: static;
+    width: 150px;
+    height: 80px;
+    left: 0px;
+    top: 26px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    
+    
+    /* Black */
+    
+    color: #111111;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 6px 0px;
+}

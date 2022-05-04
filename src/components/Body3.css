@@ -1,0 +1,54 @@
+
+.maindiv{
+    width: 100%;
+}
+.container {
+    margin-top: 9rem;
+    background: url('../assets/body3/bgimg.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.heading2{
+    position: absolute;
+width: 469px;
+height: 60px;
+left: 243px;
+top: 1746px;
+
+/* Large paragraph text */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+/* Black */
+
+color: #111111;
+}
+
+.heading1{
+    position: absolute;
+width: 545px;
+height: 42px;
+left: 243.59px;
+top: 1665.28px;
+
+/* h1 */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+
+
+/* Black */
+
+color: #111111;
+
+transform: rotate(2.05deg);
+}
