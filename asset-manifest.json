@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/elemental/static/css/main.630645da.css",
+    "main.js": "/elemental/static/js/main.cbb61a69.js",
+    "static/js/787.9f040023.chunk.js": "/elemental/static/js/787.9f040023.chunk.js",
+    "static/media/Male.png": "/elemental/static/media/Male.5553a33741d4052e1f32.png",
+    "static/media/card1.png": "/elemental/static/media/card1.340b809e3466f8cb1b0d.png",
+    "static/media/card3.png": "/elemental/static/media/card3.beab2a09689c2d5a2241.png",
+    "static/media/card2.png": "/elemental/static/media/card2.1de77e5823ff6c872599.png",
+    "index.html": "/elemental/index.html",
+    "static/media/help.svg": "/elemental/static/media/help.10a239c2e29d19748c2d224d8dd9214a.svg",
+    "static/media/group7156.svg": "/elemental/static/media/group7156.c00d55616241a79772c164aef4c4f3ab.svg",
+    "main.630645da.css.map": "/elemental/static/css/main.630645da.css.map",
+    "main.cbb61a69.js.map": "/elemental/static/js/main.cbb61a69.js.map",
+    "787.9f040023.chunk.js.map": "/elemental/static/js/787.9f040023.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.630645da.css",
+    "static/js/main.cbb61a69.js"
+  ]
+}
