@@ -2,6 +2,7 @@
 import Logo from '../assets/images/Logo.png'
 import './Navbar.css'
 import {MdShoppingCart} from 'react-icons/md'
+import MainBody from './MainBody'
 
 import React, {useState, useEffect} from 'react'
 import Body from './Body'
@@ -50,6 +51,7 @@ const Navbar = () => {
       <button onClick={toggleNav} className="btn">BTN</button>
     </nav>
     
+    <MainBody />
     </>
     
   );
