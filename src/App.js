@@ -7,8 +7,9 @@ const App = () => {
   return (
     <Router>
       <Navbar  />
+      <MainBody />
       <Routes>
-        <Route path='/elemental' element={<MainBody />} />
+        <Route path='/elemental' />
         <Route path='/shop' />
         <Route path='/aboutus' />
         <Route path='/myworkbooks'  />

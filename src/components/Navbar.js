@@ -28,7 +28,7 @@ const Navbar = () => {
 
   return (
     <>
-     <nav style={{display:'flex',width:'100%'}}>
+     <nav style={{display:'flex',width:'100%',marginBottom:'10px'}}>
        <ul ><li className="list" > <img src={Logo} style={{width:'5rem', height:'2rem'}}/></li></ul>
       
        {(toggleMenu || screenWidth > 861) && (
